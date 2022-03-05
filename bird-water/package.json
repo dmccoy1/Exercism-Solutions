@@ -1,13 +1,13 @@
 {
-  "name": "@exercism/javascript-poetry-club-door-policy",
-  "description": "Exercism concept exercise on strings",
-  "author": "Derk-Jan Karrenbeld <derk-jan+github@karrenbeld.info>",
+  "name": "@exercism/javascript-bird-watcher",
+  "description": "Exercism concept exercise on for loops and the increment and decrement operators",
+  "author": "Franziska Obbarius <12543047+junedev@users.noreply.github.com>",
   "private": true,
   "license": "MIT",
   "repository": {
     "type": "git",
     "url": "https://github.com/exercism/javascript",
-    "directory": "exercises/concept/poetry-club-door-policy"
+    "directory": "exercises/concept/bird-watcher"
   },
   "devDependencies": {
     "@babel/core": "^7.17.4",
